@@ -1,4 +1,4 @@
-Task 1 – E-commerce Project
+E-commerce Project
 
 # 🛍️ AlphaStore — Full Stack E-Commerce Website
 
